@@ -1,8 +1,9 @@
 # werx-validation--formvalidator-net-interface
 
 #### A php interface function (yes, a blank function, not an abstract class) which transforms  
-###werx/validation ( https://github.com/werx/validation ) rules  
-####into  jQuery Form Validator ( http://www.formvalidator.net )  tags.
+### werx/validation ( https://github.com/werx/validation ) rules  
+#### into  
+### jQuery Form Validator ( http://www.formvalidator.net )  tags.
 
 ### Examples:
 #### #### Ruleset: startswith[abc]|required|minlength[4]|maxlength[8]
